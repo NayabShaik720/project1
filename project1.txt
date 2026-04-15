@@ -5,3 +5,5 @@ i want to get a job
 git intalization
 push and pill init
 init git
+git is the good for pulling and pushing
+this is very good for the learnig
